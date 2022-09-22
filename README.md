@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 <div align="center">
-<img src="https://github.com/DraCaligari/DS2022/blob/main/Archivos/PinClipart.com_charmander-clipart_3027530.png?raw=true" width="200" heigth="200" />
+<img src="https://github.com/DraCaligari/DS2022/blob/main/Archivos/NicePng_emoji-png_1880901.png?raw=true" width="200" heigth="200" />
 </div>
 
 # Resume
